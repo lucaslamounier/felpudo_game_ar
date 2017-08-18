@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 016a9751669e1ae4cb875b82efda4a9e
+timeCreated: 1502976659
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ARBUSTO
+    100002: CANO
+    100004: CERCA
+    100006: NUVEM
+    100008: //RootNode
+    100010: PEDRAS
+    100012: PENINHA
+    100014: PISO
+    400000: ARBUSTO
+    400002: CANO
+    400004: CERCA
+    400006: NUVEM
+    400008: //RootNode
+    400010: PEDRAS
+    400012: PENINHA
+    400014: PISO
+    2300000: ARBUSTO
+    2300002: CANO
+    2300004: CERCA
+    2300006: NUVEM
+    2300008: PEDRAS
+    2300010: PENINHA
+    2300012: PISO
+    3300000: ARBUSTO
+    3300002: CANO
+    3300004: CERCA
+    3300006: NUVEM
+    3300008: PEDRAS
+    3300010: PENINHA
+    3300012: PISO
+    4300000: PENINHA
+    4300002: ARBUSTO
+    4300004: CANO
+    4300006: PISO
+    4300008: NUVEM
+    4300010: CERCA
+    4300012: PEDRAS
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

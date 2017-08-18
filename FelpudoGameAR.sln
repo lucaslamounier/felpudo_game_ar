@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FelpudoGameAR", "Assembly-CSharp.csproj", "{1F43DBB6-5A68-00B7-7F28-31B822C152FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FelpudoGameAR", "Assembly-CSharp-Editor.csproj", "{512C4B39-84F4-D830-E4E2-3DD0B01533BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F43DBB6-5A68-00B7-7F28-31B822C152FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F43DBB6-5A68-00B7-7F28-31B822C152FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F43DBB6-5A68-00B7-7F28-31B822C152FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F43DBB6-5A68-00B7-7F28-31B822C152FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512C4B39-84F4-D830-E4E2-3DD0B01533BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512C4B39-84F4-D830-E4E2-3DD0B01533BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512C4B39-84F4-D830-E4E2-3DD0B01533BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512C4B39-84F4-D830-E4E2-3DD0B01533BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
